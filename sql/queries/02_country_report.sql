@@ -3,6 +3,6 @@ GO
 
 SELECT customer_id, firstname, lastname, country 
 FROM dbo.Customer 
-WHERE country = N'Germany' 
+WHERE country = N'United Kingdom' 
 ORDER BY customer_id; 
 GO 
